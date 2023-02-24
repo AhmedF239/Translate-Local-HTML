@@ -13,4 +13,4 @@ The translate_html_directory() function takes a directory path, and optionally a
 
 The main code block calls translate_html_directory() on a specified directory, using the default source and target languages if none are provided.
 
-You can assess a live version of the translated website through classcentral-in-hindi.web.app
+You can assess a live version of the translated website through https://classcentral-in-hindi.web.app
