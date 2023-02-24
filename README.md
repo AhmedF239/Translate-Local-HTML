@@ -12,3 +12,5 @@ The translate_html_file() function takes a file path to an HTML file, and option
 The translate_html_directory() function takes a directory path, and optionally a source and target language. It calls the translate_html_file() function on every HTML file in the specified directory and its subdirectories.
 
 The main code block calls translate_html_directory() on a specified directory, using the default source and target languages if none are provided.
+
+You can assess a live version of the translated website through classcentral-in-hindi.web.app
