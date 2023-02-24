@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "web-translator-codingallstars",
+  "private_key_id": "33270cc95a9e4c33f9f82e35031e4ce6a6225ffb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLC57KfRwJVkRa\ncb6DUo5RqxLlJQvZh1Hk4/fgqEv9d5Y+exB23BKk0fP9HKrdhmRkuCaCog+O+CBK\nurqHLjg+KmOBvmYL1fn3Pb4GWeEwKTMqgQo6r19lqnrMYxqBc/iwr+B3EtJyup4R\n2G2c/SRTdfdAwWI7aNzXeqHUXqWuqwrzWw2qvOWvpkiN+YJjGf3MRMZ+Aw7S7P0y\nGaZbBw/pzjhUhBrk0Ld5xfVsHFJrdgPKeEdetqQX/ljBuSJqDViYk1u4qGdksBvF\nmPAYBtveP92aQROkC++ts9ga6NuBsmxDsVdMNULK2EyHAOzzX/3DamPGhdPtXuI1\npyKY07FpAgMBAAECggEAAnmU87/m+xV88M3zy12oFBvDN7LQvFPiGNRPMwL/e3VH\n32FtonKX8ZVeOtFszcAecictJP4ntWTrM9inKbr+VCz9GIRDHIAns1lNJdOroy7Q\nC65rUFV56AnWGa6tkIgNhHh9rRs4IHjg215+0OE5s6C7pPjrzcXp8eBx9N47I8Vh\nZj2rav/bxoEPI5c8I1yiOH5x7KSByFYW3EwufBkh3t8nH5NytY4W90t5HR1hos/Z\nityMclNe3uo+Gqs7N0eaP6twLKKJQctC4QrgpZMe1CnknUVLORundbhRdqCrezGb\n6d83f6POm4OG214SJ94HQBviozpQY5IAx1RAd6q1wQKBgQDnuKj2UxRiVC8RNY37\nsRza6gziW1skdw6++R8srMeZ5iYrzzVr21s3gDy7doQRz+/mUWIZdyjoEfMoB0hb\nUS0BNdX+pwifeA8ohfOAMLkyelMmUZL8Vby66TXYm2MehkwYn3juq7TWVWGIlAY0\nJCMO4e20xBYdeewO5IYUPqyYOQKBgQDgUcz1o6CS1k+lYL05stz0zWNk4brY1jiN\nQQevKZceayjuiYEDNkgzUDBFydo94ABri8BbBhwsM9WPMA0mOBLAoBpLr9BreHQV\nLJpfroxlu+2/nfQrJyUYqQDL+UHe/soC1h45q8fBVVIdBQCJSxfT+JITcJX4nHMW\nZtuUcL4CsQKBgQCS+EV6ToFsSFa+BIi0bcaOdsqLO0RYoYbhy6JhNIk47IejW75X\nVX7KefSLNgVYQtm27EFbQ3/XiaL+7XeQK7FuxhWfeZP3iS+cFTG3Sa/8+ycH889V\nao/UwRvc8dlxP96980/BmXiORQMinDg/E/iEdPnOoFwif/UgEQOVjZbsyQKBgQCF\nR7UKwgTXGeTKsxbbIG3uOdZzizc0PNvu+ZNyPLjgRvVT/XkdCnSNoHh+DrfQCbbW\nL3vD2XaFwOqDoB4/9hMWRko5bCXepPv71LuIXDJpA+b38gawWRrOcyPZDalYsHQg\niU3+IBWYxnP6cA1ohaiLtmY8jKlexL4Qsl6G7RHIkQKBgQCYXbtTTePfdW941D67\nbuO8Sp5+Gjp00P0RdXxN1xjrOD0ae9uipz5ZFTO7pSd6UBWqzQE8ZNmS6RYM5Nlu\n3he3ABzF/gcdhkSnifoP7677VwCX6DOUGIkKlQgFcn/RigwDMP4TJVWqPzN2JHc6\nXInqzxZXTLTFU9HWMs+Pw3kMiA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translatorfilecad@web-translator-codingallstars.iam.gserviceaccount.com",
+  "client_id": "111189654957189282280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translatorfilecad%40web-translator-codingallstars.iam.gserviceaccount.com"
+}
